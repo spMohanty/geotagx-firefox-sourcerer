@@ -6,9 +6,7 @@ The GeoTag-X soucerers are multiple ways in which GeoTag-X can ingest media. Thi
 #Installation Instructions
 --------------------------
 
-* Download the zip of this repository from https://github.com/spMohanty/geotagx-firefox-sourcerer/archive/master.zip
-* Unzip the zip file and save it to an easily accesible location
-* In the unzipped folder, you should find a file called as `geotagx-firefox-sourcerer.xpi`
+* Download the Add-On xpi file from https://github.com/spMohanty/geotagx-firefox-sourcerer/raw/master/geotagx-firefox-sourcerer.xpi
 * Refer to instructions at http://www.accessfirefox.org/Install_Addon_Manually.php to install the extension from the `xpi` file.
 
 #How to read the images that are uploaded
